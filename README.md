@@ -1,54 +1,58 @@
 # Bazil Altaf
 
-Software Developer | Data Science | Machine Learning  
-Python | Flutter | Firebase | Computer Vision  
+Software Developer | Machine Learning | Data-Oriented Applications
 
 ---
 
 ## Profile
-Computer Science graduate with hands-on experience in software development, data analysis, and machine learning.  
-Strong problem-solving skills with a focus on writing clean, efficient, and maintainable code.  
-Experienced in building end-to-end applications and implementing ML-based solutions.
+Computer Science graduate with practical experience in software development, machine learning, and mobile applications.  
+Focused on building reliable, scalable solutions with clean code and efficient system design.
 
 ---
 
-## Core Skills
+## Tech Stack
 
-**Languages**  
-Python, C++, C#, Dart  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Data & ML**  
-Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras, OpenCV  
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Mobile & Backend**  
-Flutter, Firebase (Auth, Firestore, Realtime Database)  
+### Mobile & Backend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Tools**  
-Git, GitHub, Android Studio, Cisco Packet Tracer  
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## Selected Projects
 - **Signature Verification System**  
-  CNN-based offline signature verification using deep learning and image preprocessing techniques.
+  Deep learning–based offline signature verification using CNNs and image preprocessing.
 
-- **Appointment Booking & Chat System**  
-  Flutter application with Firebase backend featuring authentication, real-time chat, and data storage.
+- **Appointment Booking & Chat Application**  
+  Flutter app with Firebase backend, authentication, real-time chat, and structured data storage.
 
 - **Network Design & Simulation**  
-  Designed and simulated enterprise-level networks using routing protocols, NAT, VLANs, and port security.
-
----
-
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khatri90&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khatri90&layout=compact)
+  Enterprise-style network setup including routing protocols, NAT, VLANs, and security configurations.
 
 ---
 
 ## Contact
-Email: bazilaltafkhatri@gmail.com 
+Email: bazilaltafkhatri@gmail.com
 
 ---
 
-Focused on building practical solutions, improving performance, and delivering reliable software.
+Interested in roles involving software development, machine learning, and data-driven systems.
