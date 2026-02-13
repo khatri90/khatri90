@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500" />
+</p>
+
 # Bazil Altaf
 
 Software Developer | Machine Learning | Data-Oriented Applications
@@ -40,7 +44,7 @@ Focused on building reliable, scalable solutions with clean code and efficient s
 
 ## Selected Projects
 - **Signature Verification System**  
-  Deep learning–based offline signature verification using CNNs and image preprocessing.
+  CNN-based offline signature verification using deep learning and image preprocessing techniques.
 
 - **Appointment Booking & Chat Application**  
   Flutter app with Firebase backend, authentication, real-time chat, and structured data storage.
@@ -55,4 +59,4 @@ Email: bazilaltafkhatri@gmail.com
 
 ---
 
-Interested in roles involving software development, machine learning, and data-driven systems.
+Focused on building practical solutions, improving performance, and delivering reliable software.
