@@ -40,23 +40,8 @@ Focused on building reliable, scalable solutions with clean code and efficient s
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## Selected Projects
-- **Signature Verification System**  
-  CNN-based offline signature verification using deep learning and image preprocessing techniques.
-
-- **Appointment Booking & Chat Application**  
-  Flutter app with Firebase backend, authentication, real-time chat, and structured data storage.
-
-- **Network Design & Simulation**  
-  Enterprise-style network setup including routing protocols, NAT, VLANs, and security configurations.
-
----
 
 ## Contact
 Email: bazilaltafkhatri@gmail.com
 
 ---
-
-Focused on building practical solutions, improving performance, and delivering reliable software.
